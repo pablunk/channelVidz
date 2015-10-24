@@ -1,0 +1,21 @@
+#logo{
+	display: block;
+	margin: auto;
+	width: 80px;
+}
+
+#listvidz li{
+	cursor: pointer;
+}
+#listvidz img{
+	margin: 8px;
+	padding: 3px;
+	border: 1px solid #333;
+}
+#listvidz h3{
+	margin-left: 3px;
+}
+#showVids{
+	width: 100%;
+	margin: 15px 0;
+}
